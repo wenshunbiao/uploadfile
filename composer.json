@@ -1,0 +1,25 @@
+{
+    "name": "brader/uploadfile",
+    "description": "一次composer包尝试",
+    "keywords": ["brader"],
+    "type": "l",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+        "php": ">=5.4.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Brader",
+            "email": "756307849@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Brader\\": "src/"
+        }
+    }
+}
